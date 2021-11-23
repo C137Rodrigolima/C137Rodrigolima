@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name's Carlos, and i would fell great about go for challenges, 
+to learn more and so be use to help people solve problems.
+At this moment, i'm studding about Software Develoment in Javascript language.
+
 <!--
 **C137Rodrigolima/C137Rodrigolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
