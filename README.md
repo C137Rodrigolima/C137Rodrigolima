@@ -1,8 +1,8 @@
-### Hi there 👋 My name is Carlos
+## Hi there 👋 My name is Carlos
 
 My name's Carlos, and i would fell great about go for challenges, 
 to learn even more and so be use to help people solve problems.
-At this moment, i'm going for Back-End projects.
+At this moment, i'm going for Full Stack projects.
 
 ## Find me Here:
 
